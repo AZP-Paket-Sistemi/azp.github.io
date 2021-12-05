@@ -29,6 +29,7 @@ b { font-family: sans-serif;
       text-align: center;
       transition-timing-function: cubic-bezier(3.50, 1.00, 2.67, 9.88);
       color: blue;
+      border-radius: 5px 5px 5px 5px;
 
 }
 
