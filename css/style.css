@@ -25,7 +25,7 @@ b { font-family: sans-serif;
       height: 50px;
       text-align: center;
       background-color: white;
-      transition: 2s;
+      transition: 0.7s;
       text-align: center;
       transition-timing-function: cubic-bezier(3.50, 1.00, 2.67, 9.88);
       color: blue;
@@ -34,28 +34,28 @@ b { font-family: sans-serif;
 }
 
 #bağlantı:hover { width: 500px;
-            background-color: blue;
-	    color: #ffffff;
+                  background-color: blue;
+	          color: #ffffff;
 }
 
 div.menu { background-color: blue;
-    	  overflow: hidden;
+    	   overflow: hidden;
            color: #002DFF;
-	  border-radius: 25px 25px 30px 30px;
-	  font-size: 15px;
+	   border-radius: 25px 25px 30px 30px;
+	   font-size: 15px;
 }
 
 
 div.menu a { float: left;
   	    color: #00D6FF;
   	    padding: 14px 16px;
-             text-decoration: none;
+            text-decoration: none;
   	    font-size: 17px;
 	    border-radius: 10px 10px 10px 10px;
 }
 
 div.menu a:hover { background-color: #00D6FF;
-  		 color: white;
+  		   color: white;
 }
 
 div.menu a.active { color: white;
